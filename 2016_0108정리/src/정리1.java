@@ -6,13 +6,18 @@
  * 			1) 데이터 묶는것(배열)
  * 			2) 명령어(메소드) // 두가지를 연결하는 것이 클래스
  * 
+ * 		equals, length, trim, indexOf, lastIndexOf, valueOf, charAt(어제)
+ * 		toUpperCase : 대문자 변환
+ * 		toLowerCase : 소문자 변환
  * 		
  */
 public class 정리1 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-
+		String data="hello string";
+		System.out.println(data.toUpperCase());
+		System.out.println(data.toLowerCase());
 	}
 
 }
