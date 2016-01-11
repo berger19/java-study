@@ -40,14 +40,17 @@
  *				String : 데이터형이면서 자체 기능을 가지고 있다.
  *				1) equals : 문자열 비교
  *				2) length : 문자의 갯수
- *				3)	substring : 문자의 분해
+ *				3)	substring : 문자의 분해***
  *				4)	split : 문자의 분해
- *				5)	startsWith, endsWith : 자동완성기
+ *				5)	startsWith, endsWith : 자동완성기(앞 또는 뒤 문자열 같은지 구분)
  *				6) trim : 죄우 공백제거
  *				7) indexOf, lastIndexOf : 원하는 위치의 문자 위치로
- *				8) replace : 다른 값을 변경
+ *				8) replace, replaceAll : 다른 값으로 변경
  *				9) valueOf : 모든 데이터형을 문자열로 변경
- *				10) chatAt 	: 해당 문자열에서 문자 원하는 문자 한개만 가지고 올때
+ *				10) charAt 	: 해당 문자열에서 원하는 문자 한개만 가지고 올때
+ *
+ *				오버로딩(Overloading) : 같은 이름의 메소드를 여러 개 가지면서 매개변수의 유형과 개수가 다르도록 하는 기술
+ *오버라이딩(Overriding) : 상위 클래스가 가지고 있는 메소드를 하위 클래스가 재정의 해서 상요한다.
  * 
  */			
 		 
