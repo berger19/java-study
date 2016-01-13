@@ -106,6 +106,7 @@ public class ¸Þ¼Òµå1 {
 					System.out.print(arr[i][j]+"\t");
 				}
 			System.out.println("\n");
+			
 		}
 
 	}

@@ -1,0 +1,9 @@
+
+public class ¿ŞÂÊÁ÷°¢»ï°¢Çü {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
