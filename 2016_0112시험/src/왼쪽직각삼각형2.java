@@ -1,12 +1,12 @@
 
-public class ¿ŞÂÊÁ÷°¢»ï°¢Çü {
+public class ¿ŞÂÊÁ÷°¢»ï°¢Çü2 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		int[][] A=new int[5][5];
 		int K=1;
 		for(int i=0; i<5; i++){
-			for(int j=i; j<5; j++){
+			for(int j=i; j>=0; j--){
 				A[i][j]=K;
 				K++;
 			}
@@ -21,4 +21,5 @@ public class ¿ŞÂÊÁ÷°¢»ï°¢Çü {
 			System.out.println("\n");
 		}
 	}
+
 }

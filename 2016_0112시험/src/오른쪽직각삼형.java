@@ -1,12 +1,12 @@
 
-public class 왼쪽직각삼각형 {
+public class 오른쪽직각삼형 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		int[][] A=new int[5][5];
 		int K=1;
 		for(int i=0; i<5; i++){
-			for(int j=i; j<5; j++){
+			for(int j=4-i; j<5; j++){
 				A[i][j]=K;
 				K++;
 			}

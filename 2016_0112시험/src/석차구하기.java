@@ -18,7 +18,7 @@ public class 석차구하기 {
 		for(int i=0; i<5; i++){
 			for(int j=0; j<5; j++){
 				if(jumsu[i]<jumsu[j]){
-					rank[i]=rank[j]+1;	
+					rank[i]=rank[i]+1;	
 				}
 				else{
 					

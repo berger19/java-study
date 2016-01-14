@@ -93,7 +93,7 @@ public class ¸Þ¼Òµå1 {
 		int[][] arr=new int[5][5];
 		int k=1;
 		for(int i=0; i<5; i++){
-			for(int j=i; j<=4; j++){
+			for(int j=i; j<5; j++){
 				arr[i][j]=k;
 				k++;
 			}
